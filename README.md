@@ -1,2 +1,3 @@
 # Guessing-Game-2
-Window Based Created in Java.
+Window-based. 
+Guess a number between 1 and 100.
